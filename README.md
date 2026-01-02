@@ -27,7 +27,7 @@ The exporter can export the following:
 - Normals
 - Tangents
 - Binormals
-- UVs
+- UVs (Flips the V to match the game's top-to-bottom)
 - Colors
 - Blend Indices
 - Blend Weights
