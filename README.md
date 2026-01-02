@@ -33,5 +33,5 @@ The exporter can export the following:
 - Blend Weights
 
 
-
+- Very recommended to watch [this][https://youtu.be/1gJKBUnrWhw] if you ever decide to merge vertices 
 
