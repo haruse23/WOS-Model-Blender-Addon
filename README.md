@@ -9,8 +9,8 @@ This addon is designed on Blender 4.5.0
 The model importer allows multi-file import, through Blender File View, or drag-and-drop. It creates a new mesh collection for each model.
 
 The importer can import the following:
-- Positions (Basic)
-- Indices (Basic, Triangle Strips converted to Triangle List for Blender to consume)
+- Positions
+- Indices (Triangle Strips converted to Triangle List for Blender to consume)
 - Normals
 - Tangents (Recalculated automatically by Blender)
 - Binormals (Recalculated automatically by Blender)
