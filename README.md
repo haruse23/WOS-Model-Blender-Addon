@@ -33,5 +33,9 @@ The exporter can export the following:
 - Blend Weights
 
 
-- Very recommended to watch [this](https://youtu.be/1gJKBUnrWhw) if you ever decide to merge vertices 
+The addon imports and exports a `.standalone_mesh` file ready to use with the [File Redirector](https://github.com/haruse23/WOS-File-Redirector) (just rename `.standalone_mesh` to `.0.mesh` before using)
+
+To generate `.standalone_mesh`, first you need a `.PCPACK` file, then read the `README` [here](https://github.com/haruse23/Spider-Man-Web-of-Shadows)
+
+Very recommended to watch [this](https://youtu.be/1gJKBUnrWhw) if you ever decide to merge vertices 
 
